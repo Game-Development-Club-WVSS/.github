@@ -1,8 +1,8 @@
-<div id="header" align="center">
+<div align="center">
   <img src="https://github.com/Game-Development-Club-WVSS/.github/blob/main/profile/Logo.png" width="200"/>
 </div>
 
-<div id="badges" align="center">
+<div align="center">
   <a href="https://www.instagram.com/wvssgamedevelopmentclub/">
     <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -21,7 +21,7 @@
 
 <br>
 
-<div id="texts" align="center">
+<div align="center">
   
   🙋‍♀️ This is Game Development Club at West Vancouver Secondary School
 
