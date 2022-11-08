@@ -19,10 +19,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" height="250"/>
-</div>
-
 
 🙋‍♀️ This is Game Development Club at West Vancouver Secondary School
 
@@ -32,4 +28,7 @@
 
 🍿 It is physically impossible for pigs to look up into the sky
 
-👻 Genshin Impact is the best game ever!
+
+<div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" height="250"/>
+</div>
