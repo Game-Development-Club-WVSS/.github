@@ -19,16 +19,22 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
+<br>
 
-🙋‍♀️ This is Game Development Club at West Vancouver Secondary School
+<div id="texts" align="center">
+  
+  🙋‍♀️ This is Game Development Club at West Vancouver Secondary School
 
-🌈 You can create whatever types of video games you like here and collaborate with others
+  🌈 You can create whatever types of video games you like here and collaborate with others
 
-👩‍💻 Click to join Discord Server: https://discord.gg/jfTQ6EWDkn
+  👩‍💻 Click to join Discord Server: https://discord.gg/jfTQ6EWDkn
 
-🍿 It is physically impossible for pigs to look up into the sky
+  🍿 It is physically impossible for pigs to look up into the sky
+  
+</div>
 
+<br><br>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" height="250"/>
+  <img src="https://media.giphy.com/media/wcgn5fVDjvR7pdvz4C/giphy.gif" width="350"/>
 </div>
