@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://discord.gg/jfTQ6EWDkn">
-    <img src="https://img.shields.io/badge/Discord-7289d9?style=for-the-badge&logo=discord&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Discord-5865f2?style=for-the-badge&logo=discord&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 
