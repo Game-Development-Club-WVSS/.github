@@ -23,13 +23,13 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" height="250"/>
 </div>
 
-<!--
 
-**Here are some ideas to get you started:**
+🙋‍♀️ This is Game Development Club at West Vancouver Secondary School
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+🌈 You can create whatever types of video games you like here and collaborate with others
+
+👩‍💻 Click to join Discord Server: https://discord.gg/jfTQ6EWDkn
+
+🍿 It is physically impossible for pigs to look up into the sky
+
+👻 Genshin Impact is the best game ever!
